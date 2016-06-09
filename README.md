@@ -17,4 +17,10 @@ This commit
 * Adds @angular/router@3.0.0-alpha.3 to `package.json`
 * Creates `routes.ts`
 * Bootstraps with defined `routes`
-* Creates simple components
+* Creates simple components 
+
+## How To run it
+* git clone 
+* npm install -g angular-cli
+* npm install
+* ng serve
