@@ -20,7 +20,7 @@ This commit
 * Creates simple components 
 
 ## How To run it
-* git clone 
+* git clone https://github.com/PeEllAvaj/router-sample-project/
 * npm install -g angular-cli
 * npm install
 * ng serve
